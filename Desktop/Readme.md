@@ -14,5 +14,6 @@
  
 #black and white image
 ![flower](https://user-images.githubusercontent.com/69856968/130896744-d8b731c5-1b84-42af-8015-1846c9c07eee.jpg)
-#Colored image after conversion
   ![__operated__](https://user-images.githubusercontent.com/69856968/130896702-2bf159ce-7142-4ed0-9cdc-ae389a409b6d.png)
+  #Colored image after conversion
+
