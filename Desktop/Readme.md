@@ -1,5 +1,6 @@
-#Conversion of Black and white images to colored images using OpenCV and pretrained caffe model
- for viewing the project and using it :
+# Conversion of Black and white images to colored images using OpenCV and pretrained caffe model
+
+ ## For viewing the project and using it :
  1) Download the zip file and extract it
  2) run the application(exe file) inside the unzipped folder and you are set to go
  
@@ -12,8 +13,11 @@
  
  For Colorization of Black and white image it uses OpenCV and Deep learning Texhniques
  
-#black and white image
+## black and white image
 ![flower](https://user-images.githubusercontent.com/69856968/130896744-d8b731c5-1b84-42af-8015-1846c9c07eee.jpg)
-  ![__operated__](https://user-images.githubusercontent.com/69856968/130896702-2bf159ce-7142-4ed0-9cdc-ae389a409b6d.png)
-  #Colored image after conversion
+
+
+## Colored image after conversion
+![__operated__](https://user-images.githubusercontent.com/69856968/130896702-2bf159ce-7142-4ed0-9cdc-ae389a409b6d.png)
+
 
