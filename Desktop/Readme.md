@@ -1,7 +1,7 @@
 # Conversion of Black and white images to colored images using OpenCV and pretrained caffe model
 
  ## For viewing the project and using it :
- 1) Download the zip file and extract it
+ 1) Download the chromatic_pen.zip file and extract it
  2) run the application(exe file) inside the unzipped folder and you are set to go
  
  The Application uses Python flask as backend and HTML, CSS, Jquery as a front-end
